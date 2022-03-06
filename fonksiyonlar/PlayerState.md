@@ -1,6 +1,6 @@
 | Fonksiyon Adı   |     Parametreler        |                          İşlev                               |
 |-----------------|-------------------------|--------------------------------------------------------------|
-| PlayerState     |          id             | Oyuncunun güncel durumunu string olarak çekmeye yarar.       |
+| PlayerState     |          id             | Oyuncunun güncel durumunu string olarak çekmeye yarar.      |
 
 ### **Fonksiyon**
 
