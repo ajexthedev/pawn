@@ -19,6 +19,8 @@ YakinlikKontrol(playerid, targetid, Float:radius)
 ### **Kullanım**
 
 ```c
-if(!YakinlikKontrol(playerid, targetid, 5.0)) 
-            return SendClientMessage(playerid, -1, "Hedef ID'ye yakın değilsin.");
+if(!YakinlikKontrol(playerid, targetid, 5.0))
+{
+    return SendClientMessage(playerid, -1, "Hedef ID'ye yakın değilsin.");
+}
 ```
